@@ -1,4 +1,5 @@
 #!/bin/bash
+cd $HOME/data/docker-lnmp/mysql/var/ && git clean -df . && git checkout . 
 docker stop lnmp;
 docker rm lnmp;
 docker run -dit \
