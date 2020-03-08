@@ -1,8 +1,8 @@
 ## start
 
-`docker pull westeast/lnmp-ubuntu:latest`
-docker.io: https://hub.docker.com/r/westeast/lnmp-ubuntu
-github.com:https://github.com/westeast/docker-lnmp
+- `docker pull westeast/lnmp-ubuntu:latest`
+- docker.io: https://hub.docker.com/r/westeast/lnmp-ubuntu
+- github.com:https://github.com/westeast/docker-lnmp
 
 
 ## lnmp-ubuntu:latest
@@ -27,13 +27,19 @@ docker run -dit \
 -v $HOME/data/docker-lnmp/mysql/data:/usr/local/mysql/data \
 -v $HOME/data/docker-lnmp/mysql/var:/usr/local/mysql/var \
 -v $HOME/data/docker-lnmp/nginx_conf:/usr/local/nginx/conf \
---name=lnmp  westeast/lnmp-ubuntu:latest
+-w /code \
+--name=lnmp  westeast/lnmp-ubuntu:latest /root/start_lnmp.sh
 
+然后浏览打开 http://127.0.0.1:8001 可以看到lnmp
 
 #用name进入进入容器
 docker exec -i -t lnmp /bin/bash
 lnmp start 运行所有lnmp软件 
 lnmp status 查看各软件 的运行状态
+
+#关闭及再次启动容器
+docker stop lnmp 
+docker start lnmp 
 ```
 
 
@@ -66,5 +72,7 @@ ubuntu 16.04
 ```
 dong@1988
 ```
+
+
 
 
