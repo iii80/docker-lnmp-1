@@ -1,0 +1,833 @@
+191217  6:44:19 [Note] Plugin 'FEDERATED' is disabled.
+191217  6:44:19 InnoDB: The InnoDB memory heap is disabled
+191217  6:44:19 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  6:44:19 InnoDB: Compressed tables use zlib 1.2.11
+191217  6:44:19 InnoDB: Using Linux native AIO
+191217  6:44:19 InnoDB: Initializing buffer pool, size = 128.0M
+191217  6:44:19 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file /usr/local/mysql/var/ibdata1 did not exist:
+InnoDB: a new database to be created!
+191217  6:44:19  InnoDB: Setting file /usr/local/mysql/var/ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+191217  6:44:19  InnoDB: Log file /usr/local/mysql/var/ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file /usr/local/mysql/var/ib_logfile0 size to 32 MB
+InnoDB: Database physically writes the file full: wait...
+191217  6:44:20  InnoDB: Log file /usr/local/mysql/var/ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file /usr/local/mysql/var/ib_logfile1 size to 32 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+191217  6:44:20  InnoDB: Waiting for the background threads to start
+191217  6:44:21 InnoDB: 5.5.62 started; log sequence number 0
+191217  6:44:21 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  6:44:21 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  6:44:21 [Note] Server socket created on IP: '0.0.0.0'.
+191217  6:44:21 [Note] Event Scheduler: Loaded 0 events
+191217  6:44:21 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+191217  6:44:21 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  6:44:21 [Note] Event Scheduler: Purging the queue. 0 events
+191217  6:44:21  InnoDB: Starting shutdown...
+191217  6:44:22  InnoDB: Shutdown completed; log sequence number 1595675
+191217  6:44:22 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  6:44:22 [Note] Plugin 'FEDERATED' is disabled.
+191217  6:44:22 InnoDB: The InnoDB memory heap is disabled
+191217  6:44:22 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  6:44:22 InnoDB: Compressed tables use zlib 1.2.11
+191217  6:44:22 InnoDB: Using Linux native AIO
+191217  6:44:22 InnoDB: Initializing buffer pool, size = 128.0M
+191217  6:44:22 InnoDB: Completed initialization of buffer pool
+191217  6:44:22 InnoDB: highest supported file format is Barracuda.
+191217  6:44:22  InnoDB: Waiting for the background threads to start
+191217  6:44:23 InnoDB: 5.5.62 started; log sequence number 1595675
+191217  6:44:23 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  6:44:23 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  6:44:23 [Note] Server socket created on IP: '0.0.0.0'.
+191217  6:44:23 [Note] Event Scheduler: Loaded 0 events
+191217  6:44:23 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+191217  6:44:26 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  6:44:26 [Note] Event Scheduler: Purging the queue. 0 events
+191217  6:44:26  InnoDB: Starting shutdown...
+191217  6:44:27  InnoDB: Shutdown completed; log sequence number 1595675
+191217  6:44:27 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  6:44:27 [Note] Plugin 'FEDERATED' is disabled.
+191217  6:44:27 InnoDB: The InnoDB memory heap is disabled
+191217  6:44:27 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  6:44:27 InnoDB: Compressed tables use zlib 1.2.11
+191217  6:44:27 InnoDB: Using Linux native AIO
+191217  6:44:27 InnoDB: Initializing buffer pool, size = 128.0M
+191217  6:44:27 InnoDB: Completed initialization of buffer pool
+191217  6:44:27 InnoDB: highest supported file format is Barracuda.
+191217  6:44:27  InnoDB: Waiting for the background threads to start
+191217  6:44:28 InnoDB: 5.5.62 started; log sequence number 1595675
+191217  6:44:28 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  6:44:28 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  6:44:28 [Note] Server socket created on IP: '0.0.0.0'.
+191217  6:44:28 [Note] Event Scheduler: Loaded 0 events
+191217  6:44:28 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+191217  6:44:29 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  6:44:29 [Note] Event Scheduler: Purging the queue. 0 events
+191217  6:44:29  InnoDB: Starting shutdown...
+191217  6:44:31  InnoDB: Shutdown completed; log sequence number 1595685
+191217  6:44:31 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  6:44:31 [Note] Plugin 'FEDERATED' is disabled.
+191217  6:44:31 InnoDB: The InnoDB memory heap is disabled
+191217  6:44:31 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  6:44:31 InnoDB: Compressed tables use zlib 1.2.11
+191217  6:44:31 InnoDB: Using Linux native AIO
+191217  6:44:32 InnoDB: Initializing buffer pool, size = 128.0M
+191217  6:44:32 InnoDB: Completed initialization of buffer pool
+191217  6:44:32 InnoDB: highest supported file format is Barracuda.
+191217  6:44:32  InnoDB: Waiting for the background threads to start
+191217  6:44:33 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  6:44:33 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  6:44:33 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  6:44:33 [Note] Server socket created on IP: '0.0.0.0'.
+191217  6:44:33 [Note] Event Scheduler: Loaded 0 events
+191217  6:44:33 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+191217  6:44:33 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  6:44:33 [Note] Event Scheduler: Purging the queue. 0 events
+191217  6:44:33  InnoDB: Starting shutdown...
+191217  6:44:34  InnoDB: Shutdown completed; log sequence number 1595685
+191217  6:44:34 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  6:52:38 [Note] Plugin 'FEDERATED' is disabled.
+191217  6:52:38 InnoDB: The InnoDB memory heap is disabled
+191217  6:52:38 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  6:52:38 InnoDB: Compressed tables use zlib 1.2.11
+191217  6:52:38 InnoDB: Using Linux native AIO
+191217  6:52:38 InnoDB: Initializing buffer pool, size = 128.0M
+191217  6:52:38 InnoDB: Completed initialization of buffer pool
+191217  6:52:38 InnoDB: highest supported file format is Barracuda.
+191217  6:52:38  InnoDB: Waiting for the background threads to start
+191217  6:52:39 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  6:52:39 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  6:52:39 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  6:52:39 [Note] Server socket created on IP: '0.0.0.0'.
+191217  6:52:39 [Note] Event Scheduler: Loaded 0 events
+191217  6:52:39 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+191217  6:53:53 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  6:53:53 [Note] Event Scheduler: Purging the queue. 0 events
+191217  6:53:53  InnoDB: Starting shutdown...
+191217  6:53:53  InnoDB: Shutdown completed; log sequence number 1595685
+191217  6:53:53 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  6:56:51 [Note] Plugin 'FEDERATED' is disabled.
+191217  6:56:51 InnoDB: The InnoDB memory heap is disabled
+191217  6:56:51 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  6:56:51 InnoDB: Compressed tables use zlib 1.2.11
+191217  6:56:51 InnoDB: Using Linux native AIO
+191217  6:56:51 InnoDB: Initializing buffer pool, size = 128.0M
+191217  6:56:51 InnoDB: Completed initialization of buffer pool
+191217  6:56:51 InnoDB: highest supported file format is Barracuda.
+191217  6:56:51  InnoDB: Waiting for the background threads to start
+191217  6:56:52 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  6:56:52 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  6:56:52 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  6:56:52 [Note] Server socket created on IP: '0.0.0.0'.
+191217  6:56:52 [Note] Event Scheduler: Loaded 0 events
+191217  6:56:52 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+191217  6:57:19 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  6:57:19 [Note] Event Scheduler: Purging the queue. 0 events
+191217  6:57:19  InnoDB: Starting shutdown...
+191217  6:57:19  InnoDB: Shutdown completed; log sequence number 1595685
+191217  6:57:19 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  6:58:55 [Note] Plugin 'FEDERATED' is disabled.
+191217  6:58:55 InnoDB: The InnoDB memory heap is disabled
+191217  6:58:55 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  6:58:55 InnoDB: Compressed tables use zlib 1.2.11
+191217  6:58:55 InnoDB: Using Linux native AIO
+191217  6:58:55 InnoDB: Initializing buffer pool, size = 128.0M
+191217  6:58:55 InnoDB: Completed initialization of buffer pool
+191217  6:58:55 InnoDB: highest supported file format is Barracuda.
+191217  6:58:55  InnoDB: Waiting for the background threads to start
+191217  6:58:56 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  6:58:56 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  6:58:56 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  6:58:56 [Note] Server socket created on IP: '0.0.0.0'.
+191217  6:58:56 [Note] Event Scheduler: Loaded 0 events
+191217  6:58:56 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+191217  6:59:14 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  6:59:14 [Note] Event Scheduler: Purging the queue. 0 events
+191217  6:59:14  InnoDB: Starting shutdown...
+191217  6:59:15  InnoDB: Shutdown completed; log sequence number 1595685
+191217  6:59:15 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  7:02:48 [Note] Plugin 'FEDERATED' is disabled.
+191217  7:02:48 InnoDB: The InnoDB memory heap is disabled
+191217  7:02:48 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  7:02:48 InnoDB: Compressed tables use zlib 1.2.11
+191217  7:02:48 InnoDB: Using Linux native AIO
+191217  7:02:48 InnoDB: Initializing buffer pool, size = 128.0M
+191217  7:02:48 InnoDB: Completed initialization of buffer pool
+191217  7:02:48 InnoDB: highest supported file format is Barracuda.
+191217  7:02:48  InnoDB: Waiting for the background threads to start
+191217  7:02:49 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  7:02:49 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  7:02:49 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  7:02:49 [Note] Server socket created on IP: '0.0.0.0'.
+191217  7:02:49 [Note] Event Scheduler: Loaded 0 events
+191217  7:02:49 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+191217  7:03:10 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  7:03:10 [Note] Event Scheduler: Purging the queue. 0 events
+191217  7:03:10  InnoDB: Starting shutdown...
+191217  7:03:11  InnoDB: Shutdown completed; log sequence number 1595685
+191217  7:03:11 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  7:19:59 [Note] Plugin 'FEDERATED' is disabled.
+191217  7:19:59 InnoDB: The InnoDB memory heap is disabled
+191217  7:19:59 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  7:19:59 InnoDB: Compressed tables use zlib 1.2.11
+191217  7:19:59 InnoDB: Using Linux native AIO
+191217  7:19:59 InnoDB: Initializing buffer pool, size = 128.0M
+191217  7:19:59 InnoDB: Completed initialization of buffer pool
+191217  7:19:59 InnoDB: highest supported file format is Barracuda.
+191217  7:19:59  InnoDB: Waiting for the background threads to start
+191217  7:20:00 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  7:20:00 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  7:20:00 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  7:20:00 [Note] Server socket created on IP: '0.0.0.0'.
+191217  7:20:00 [Note] Event Scheduler: Loaded 0 events
+191217  7:20:00 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+191217  7:21:08 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  7:21:08 [Note] Event Scheduler: Purging the queue. 0 events
+191217  7:21:08  InnoDB: Starting shutdown...
+191217  7:21:09  InnoDB: Shutdown completed; log sequence number 1595685
+191217  7:21:09 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  7:34:41 [Note] Plugin 'FEDERATED' is disabled.
+191217  7:34:41 InnoDB: The InnoDB memory heap is disabled
+191217  7:34:41 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  7:34:41 InnoDB: Compressed tables use zlib 1.2.11
+191217  7:34:41 InnoDB: Using Linux native AIO
+191217  7:34:41 InnoDB: Initializing buffer pool, size = 128.0M
+191217  7:34:41 InnoDB: Completed initialization of buffer pool
+191217  7:34:41 InnoDB: highest supported file format is Barracuda.
+191217  7:34:41  InnoDB: Waiting for the background threads to start
+191217  7:34:42 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  7:34:42 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  7:34:42 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  7:34:42 [Note] Server socket created on IP: '0.0.0.0'.
+191217  7:34:42 [Note] Event Scheduler: Loaded 0 events
+191217  7:34:42 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /usr/local/mysql/var/
+Running threads: 0  Stack size: 262144
+Current locks:
+lock: 0x7894360:
+
+lock: 0x783e760:
+
+lock: 0x3294b60:
+
+lock: 0x783cc60:
+
+lock: 0x3294160:
+
+lock: 0x3293760:
+
+lock: 0x3289d60:
+
+lock: 0x6410360:
+
+lock: 0x780b960:
+
+lock: 0xfdb600:
+
+lock: 0xfdbb40:
+
+lock: 0xfdbc00:
+
+lock: 0xfdbcc0:
+
+lock: 0xfdb6c0:
+
+lock: 0xfdb780:
+
+lock: 0xfdb540:
+
+lock: 0xfdb3c0:
+
+lock: 0xfdb480:
+
+lock: 0xfdbd80:
+
+lock: 0xfdb840:
+
+lock: 0xfdba80:
+
+lock: 0xfdb9c0:
+
+lock: 0xfdb900:
+
+lock: 0xfdb180:
+
+lock: 0xfdb240:
+
+lock: 0xfdb300:
+
+
+Key caches:
+default
+Buffer_size:      33554432
+Block_size:           1024
+Division_limit:        100
+Age_limit:             300
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          3
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         33
+Open tables:           26
+Open files:            20
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 100917248
+Number of free chunks:			 0
+Number of fastbin blocks:		 0
+Number of mmapped regions:		 0
+Space in mmapped regions:		 0
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 622640
+Total allocated space:			 76029904
+Total free space:			 24264704
+Top-most, releasable space:		 0
+Estimated memory (with thread stack):    100917248
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:139
+LUA             : init_queue:149
+WOC             : NO
+Next activation : never
+191217  7:35:55 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  7:35:55 [Note] Event Scheduler: Purging the queue. 0 events
+191217  7:35:55  InnoDB: Starting shutdown...
+191217  7:35:55  InnoDB: Shutdown completed; log sequence number 1595685
+191217  7:35:55 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  7:36:31 [Note] Plugin 'FEDERATED' is disabled.
+191217  7:36:31 InnoDB: The InnoDB memory heap is disabled
+191217  7:36:31 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  7:36:31 InnoDB: Compressed tables use zlib 1.2.11
+191217  7:36:31 InnoDB: Using Linux native AIO
+191217  7:36:31 InnoDB: Initializing buffer pool, size = 128.0M
+191217  7:36:31 InnoDB: Completed initialization of buffer pool
+191217  7:36:31 InnoDB: highest supported file format is Barracuda.
+191217  7:36:31  InnoDB: Waiting for the background threads to start
+191217  7:36:32 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  7:36:32 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  7:36:32 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  7:36:32 [Note] Server socket created on IP: '0.0.0.0'.
+191217  7:36:32 [Note] Event Scheduler: Loaded 0 events
+191217  7:36:32 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /usr/local/mysql/var/
+Running threads: 0  Stack size: 262144
+Current locks:
+lock: 0x7e0e360:
+
+lock: 0x7db8760:
+
+lock: 0x380eb60:
+
+lock: 0x7db6c60:
+
+lock: 0x380e160:
+
+lock: 0x380d760:
+
+lock: 0x3803d60:
+
+lock: 0x698a360:
+
+lock: 0x7d85960:
+
+lock: 0xfdb600:
+
+lock: 0xfdbb40:
+
+lock: 0xfdbc00:
+
+lock: 0xfdbcc0:
+
+lock: 0xfdb6c0:
+
+lock: 0xfdb780:
+
+lock: 0xfdb540:
+
+lock: 0xfdb3c0:
+
+lock: 0xfdb480:
+
+lock: 0xfdbd80:
+
+lock: 0xfdb840:
+
+lock: 0xfdba80:
+
+lock: 0xfdb9c0:
+
+lock: 0xfdb900:
+
+lock: 0xfdb180:
+
+lock: 0xfdb240:
+
+lock: 0xfdb300:
+
+
+Key caches:
+default
+Buffer_size:      33554432
+Block_size:           1024
+Division_limit:        100
+Age_limit:             300
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          3
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         33
+Open tables:           26
+Open files:            20
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 100917248
+Number of free chunks:			 0
+Number of fastbin blocks:		 0
+Number of mmapped regions:		 0
+Space in mmapped regions:		 0
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 622640
+Total allocated space:			 76029904
+Total free space:			 24264704
+Top-most, releasable space:		 0
+Estimated memory (with thread stack):    100917248
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:139
+LUA             : init_queue:149
+WOC             : NO
+Next activation : never
+191217  7:38:08 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  7:38:08 [Note] Event Scheduler: Purging the queue. 0 events
+191217  7:38:08  InnoDB: Starting shutdown...
+191217  7:38:09  InnoDB: Shutdown completed; log sequence number 1595685
+191217  7:38:09 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  7:38:47 [Note] Plugin 'FEDERATED' is disabled.
+191217  7:38:47 InnoDB: The InnoDB memory heap is disabled
+191217  7:38:47 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  7:38:47 InnoDB: Compressed tables use zlib 1.2.11
+191217  7:38:47 InnoDB: Using Linux native AIO
+191217  7:38:47 InnoDB: Initializing buffer pool, size = 128.0M
+191217  7:38:47 InnoDB: Completed initialization of buffer pool
+191217  7:38:47 InnoDB: highest supported file format is Barracuda.
+191217  7:38:47  InnoDB: Waiting for the background threads to start
+191217  7:38:48 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  7:38:48 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  7:38:48 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  7:38:48 [Note] Server socket created on IP: '0.0.0.0'.
+191217  7:38:48 [Note] Event Scheduler: Loaded 0 events
+191217  7:38:48 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /usr/local/mysql/var/
+Running threads: 0  Stack size: 262144
+Current locks:
+lock: 0x6b96360:
+
+lock: 0x6b40760:
+
+lock: 0x2596b60:
+
+lock: 0x6b3ec60:
+
+lock: 0x2596160:
+
+lock: 0x2595760:
+
+lock: 0x258bd60:
+
+lock: 0x5712360:
+
+lock: 0x6b0d960:
+
+lock: 0xfdb600:
+
+lock: 0xfdbb40:
+
+lock: 0xfdbc00:
+
+lock: 0xfdbcc0:
+
+lock: 0xfdb6c0:
+
+lock: 0xfdb780:
+
+lock: 0xfdb540:
+
+lock: 0xfdb3c0:
+
+lock: 0xfdb480:
+
+lock: 0xfdbd80:
+
+lock: 0xfdb840:
+
+lock: 0xfdba80:
+
+lock: 0xfdb9c0:
+
+lock: 0xfdb900:
+
+lock: 0xfdb180:
+
+lock: 0xfdb240:
+
+lock: 0xfdb300:
+
+
+Key caches:
+default
+Buffer_size:      33554432
+Block_size:           1024
+Division_limit:        100
+Age_limit:             300
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          3
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         33
+Open tables:           26
+Open files:            20
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 100917248
+Number of free chunks:			 0
+Number of fastbin blocks:		 0
+Number of mmapped regions:		 0
+Space in mmapped regions:		 0
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 622640
+Total allocated space:			 76029904
+Total free space:			 24264704
+Top-most, releasable space:		 0
+Estimated memory (with thread stack):    100917248
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:139
+LUA             : init_queue:149
+WOC             : NO
+Next activation : never
+191217  7:39:56 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  7:39:56 [Note] Event Scheduler: Purging the queue. 0 events
+191217  7:39:56  InnoDB: Starting shutdown...
+191217  7:39:57  InnoDB: Shutdown completed; log sequence number 1595685
+191217  7:39:57 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
+191217  7:40:14 [Note] Plugin 'FEDERATED' is disabled.
+191217  7:40:14 InnoDB: The InnoDB memory heap is disabled
+191217  7:40:14 InnoDB: Mutexes and rw_locks use GCC atomic builtins
+191217  7:40:14 InnoDB: Compressed tables use zlib 1.2.11
+191217  7:40:14 InnoDB: Using Linux native AIO
+191217  7:40:14 InnoDB: Initializing buffer pool, size = 128.0M
+191217  7:40:14 InnoDB: Completed initialization of buffer pool
+191217  7:40:14 InnoDB: highest supported file format is Barracuda.
+191217  7:40:14  InnoDB: Waiting for the background threads to start
+191217  7:40:15 InnoDB: 5.5.62 started; log sequence number 1595685
+191217  7:40:15 [Note] Server hostname (bind-address): '0.0.0.0'; port: 3306
+191217  7:40:15 [Note]   - '0.0.0.0' resolves to '0.0.0.0';
+191217  7:40:15 [Note] Server socket created on IP: '0.0.0.0'.
+191217  7:40:15 [Note] Event Scheduler: Loaded 0 events
+191217  7:40:15 [Note] /usr/local/mysql/bin/mysqld: ready for connections.
+Version: '5.5.62-log'  socket: '/tmp/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /usr/local/mysql/var/
+Running threads: 0  Stack size: 262144
+Current locks:
+lock: 0x71c2360:
+
+lock: 0x716c760:
+
+lock: 0x2bc2b60:
+
+lock: 0x716ac60:
+
+lock: 0x2bc2160:
+
+lock: 0x2bc1760:
+
+lock: 0x2bb7d60:
+
+lock: 0x5d3e360:
+
+lock: 0x7139960:
+
+lock: 0xfdb600:
+
+lock: 0xfdbb40:
+
+lock: 0xfdbc00:
+
+lock: 0xfdbcc0:
+
+lock: 0xfdb6c0:
+
+lock: 0xfdb780:
+
+lock: 0xfdb540:
+
+lock: 0xfdb3c0:
+
+lock: 0xfdb480:
+
+lock: 0xfdbd80:
+
+lock: 0xfdb840:
+
+lock: 0xfdba80:
+
+lock: 0xfdb9c0:
+
+lock: 0xfdb900:
+
+lock: 0xfdb180:
+
+lock: 0xfdb240:
+
+lock: 0xfdb300:
+
+
+Key caches:
+default
+Buffer_size:      33554432
+Block_size:           1024
+Division_limit:        100
+Age_limit:             300
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          3
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         33
+Open tables:           26
+Open files:            20
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 100917248
+Number of free chunks:			 0
+Number of fastbin blocks:		 0
+Number of mmapped regions:		 0
+Space in mmapped regions:		 0
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 622640
+Total allocated space:			 76029904
+Total free space:			 24264704
+Top-most, releasable space:		 0
+Estimated memory (with thread stack):    100917248
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:139
+LUA             : init_queue:149
+WOC             : NO
+Next activation : never
+191217  7:41:47 [Note] /usr/local/mysql/bin/mysqld: Normal shutdown
+
+191217  7:41:47 [Note] Event Scheduler: Purging the queue. 0 events
+191217  7:41:47  InnoDB: Starting shutdown...
+191217  7:41:48  InnoDB: Shutdown completed; log sequence number 1595685
+191217  7:41:48 [Note] /usr/local/mysql/bin/mysqld: Shutdown complete
+
