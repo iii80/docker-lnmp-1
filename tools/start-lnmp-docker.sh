@@ -3,8 +3,8 @@ cd $HOME/data/docker-lnmp/mysql/data/ && git clean -df . && git checkout .
 cd $HOME/data/docker-lnmp/mysql/var/ && rm -f *.pid  && rm -f *.err && git checkout ib_logfile0 && git checkout mysql/pma*
 docker stop lnmp;
 docker rm lnmp;
-docker run -dit \
--p 8001:80 -p 443:443 -p 3306:3306 \
+docker run -d -i -t \
+-p 8001:80 -p 443:443 -p 8002:3306 \
 --privileged=true \
 -v /Users/likenan/git:/code \
 -v /tmp/lnmplogs:/home/wwwlogs \
